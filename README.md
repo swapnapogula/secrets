@@ -1,1 +1,1 @@
-Authentication secrets
+Authentication-Secrets
